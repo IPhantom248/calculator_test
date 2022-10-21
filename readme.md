@@ -28,10 +28,16 @@ POST
 {"result":"1-1 = 0"}
 ```
 <h2>Установка:</h2>
+
+
 ```sh
 pip install requerments.txt
 ```
+
+
 <h2>Запуск:</h2>
+
+
 ```sh
 uvicorn main:app --reload
 ```
